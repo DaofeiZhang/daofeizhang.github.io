@@ -1,17 +1,19 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+I am currently a Lecturer in the School of Mathematics and Computing Science at Guilin University of Electronic Technology.
+
+#### Research Interests
+Statistical properties of dynamical systems.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: Daofei.Zhang[at]guet.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Department of Mathematics, University of Warwick, Supervisor: Mark Pollicott, 2020-2024.\
+M.S., Department of Mathematics, Suzhou University, Supervisor: Dawei Yang, 2017—2020.\
+B.S., Department of Mathematics, Jiaxing University, 2013—2017.
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+#### Permanent positions
+2024-,  Lecturer at Guilin University of Electronic Technology.
