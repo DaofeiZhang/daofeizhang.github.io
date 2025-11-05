@@ -6,8 +6,6 @@
 
 - <strong>D. Zhang</strong>, Stretched-exponential mixing for surface semiflows and Anosov flows. [[Arxiv]](https://arxiv.org/abs/2406.12759)
 
-- <strong>D. Zhang</strong>, Exponential mixing of frame flows for three dimensional manifolds of quarter-pinched negative curvature. [[Arxiv]](https://arxiv.org/abs/2508.01593)
-
 
 #### Published
 
